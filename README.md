@@ -2,3 +2,4 @@
 This project is used as a boilerplate for tasks in the "HTML, CSS and SASS" course in boom.dev
 
 🤯💥💣
+Variables
