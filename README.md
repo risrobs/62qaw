@@ -1,5 +1,3 @@
-# ⚙ HTML, CSS and SASS Boilerplate 
-This project is used as a boilerplate for tasks in the "HTML, CSS and SASS" course in boom.dev
+# base16-css-variables
 
-🤯💥💣
-Variables
+A collection of base16 themes converted in css with support for css variables and prefer-colorscheme.
