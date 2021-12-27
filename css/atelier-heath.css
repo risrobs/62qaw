@@ -1,0 +1,100 @@
+/* Atelier Heath by Bram de Haan (http://atelierbramdehaan.nl) */
+@media (prefers-color-scheme: dark) {
+  .base16-atelier-heath {
+    --base00: #1b181b;
+    --base01: #292329;
+    --base02: #695d69;
+    --base03: #776977;
+    --base04: #9e8f9e;
+    --base05: #ab9bab;
+    --base06: #d8cad8;
+    --base07: #f7f3f7;
+    --base08: #ca402b;
+    --base09: #a65926;
+    --base0A: #bb8a35;
+    --base0B: #918b3b;
+    --base0C: #159393;
+    --base0D: #516aec;
+    --base0E: #7b59c0;
+    --base0F: #cc33cc;
+  }
+}
+.base16-atelier-heath.dark {
+  --base00: #1b181b;
+  --base01: #292329;
+  --base02: #695d69;
+  --base03: #776977;
+  --base04: #9e8f9e;
+  --base05: #ab9bab;
+  --base06: #d8cad8;
+  --base07: #f7f3f7;
+  --base08: #ca402b;
+  --base09: #a65926;
+  --base0A: #bb8a35;
+  --base0B: #918b3b;
+  --base0C: #159393;
+  --base0D: #516aec;
+  --base0E: #7b59c0;
+  --base0F: #cc33cc;
+}
+
+/* Atelier Heath by Bram de Haan (http://atelierbramdehaan.nl) */
+.base16-atelier-heath {
+  --base00: #1b181b;
+  --base01: #292329;
+  --base02: #695d69;
+  --base03: #776977;
+  --base04: #9e8f9e;
+  --base05: #ab9bab;
+  --base06: #d8cad8;
+  --base07: #f7f3f7;
+  --base08: #ca402b;
+  --base09: #a65926;
+  --base0A: #bb8a35;
+  --base0B: #918b3b;
+  --base0C: #159393;
+  --base0D: #516aec;
+  --base0E: #7b59c0;
+  --base0F: #cc33cc;
+}
+
+/* Atelier Heath Light by Bram de Haan (http://atelierbramdehaan.nl) */
+@media (prefers-color-scheme: light) {
+  .base16-atelier-heath {
+    --base00: #f7f3f7;
+    --base01: #d8cad8;
+    --base02: #ab9bab;
+    --base03: #9e8f9e;
+    --base04: #776977;
+    --base05: #695d69;
+    --base06: #292329;
+    --base07: #1b181b;
+    --base08: #ca402b;
+    --base09: #a65926;
+    --base0A: #bb8a35;
+    --base0B: #918b3b;
+    --base0C: #159393;
+    --base0D: #516aec;
+    --base0E: #7b59c0;
+    --base0F: #cc33cc;
+  }
+}
+.base16-atelier-heath.light {
+  --base00: #f7f3f7;
+  --base01: #d8cad8;
+  --base02: #ab9bab;
+  --base03: #9e8f9e;
+  --base04: #776977;
+  --base05: #695d69;
+  --base06: #292329;
+  --base07: #1b181b;
+  --base08: #ca402b;
+  --base09: #a65926;
+  --base0A: #bb8a35;
+  --base0B: #918b3b;
+  --base0C: #159393;
+  --base0D: #516aec;
+  --base0E: #7b59c0;
+  --base0F: #cc33cc;
+}
+

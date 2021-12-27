@@ -1,0 +1,220 @@
+/* Black Metal (Bathory) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.bathory {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #e78a53;
+  --base0B: #fbcb97;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Burzum) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.burzum {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #99bbaa;
+  --base0B: #ddeecc;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Dark Funeral) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.dark-funeral {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #5f81a5;
+  --base0B: #d0dfee;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #a06666;
+  --base0B: #dd9999;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Gorgoroth) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.gorgoroth {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #8c7f70;
+  --base0B: #9b8d7f;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Immortal) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.immortal {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #556677;
+  --base0B: #7799bb;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Khold) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.khold {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #974b46;
+  --base0B: #eceee3;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Marduk) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.marduk {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #626b67;
+  --base0B: #a5aaa7;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Mayhem) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.mayhem {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #eecc6c;
+  --base0B: #f3ecd4;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Nile) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.nile {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #777755;
+  --base0B: #aa9988;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+/* Black Metal (Venom) by metalelf0 (https://github.com/metalelf0) */
+.base16-black-metal.venom {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #79241f;
+  --base0B: #f8f7f2;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
